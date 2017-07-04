@@ -1,7 +1,6 @@
 body{
   text-align: center;
   font-family: Helvetica;
-
 }
 h1{
   font-size: 70px;
@@ -23,8 +22,14 @@ h4{
 }
 p{
   font-size: 14px
-}
+  }
 ul{
   font-size: 18px;
   color: white;
+  }
+#black{
+  color: black;
+}
+#open{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   }
