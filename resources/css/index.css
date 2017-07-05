@@ -27,9 +27,19 @@ ul{
   font-size: 18px;
   color: white;
   }
-#black{
+.black{
   color: black;
 }
-#open{
+.open{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   }
+.footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.nav{
+  font-size: 18px;
+  color: white;
+}
